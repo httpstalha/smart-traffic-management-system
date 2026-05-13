@@ -169,15 +169,7 @@ Traffic Optimization
 
 ---
 
-# 📸 Screenshots
 
-> Add your project screenshots here for better GitHub engagement.
-
-```bash
-screenshots/home.png
-screenshots/dashboard.png
-screenshots/detection.png
-```
 
 ---
 
